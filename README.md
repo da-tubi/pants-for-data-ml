@@ -7,3 +7,4 @@
 + https://github.com/da-tubi/pants-pyspark-subprojects
 + https://github.com/da-tubi/jupyter-notebook-best-practice
 + https://github.com/da-tubi/jupyterlab-best-practice
++ https://github.com/da-tubi/pants-airflow
